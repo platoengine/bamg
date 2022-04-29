@@ -1,0 +1,2 @@
+# bamg
+Basic Mesh Generator
